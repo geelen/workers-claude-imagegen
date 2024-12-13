@@ -25,3 +25,5 @@ async generateImage(prompt: string, steps: number) {
   })
 }
 ```
+
+![image](https://github.com/user-attachments/assets/352867ad-6ae0-4046-88a7-a41684846e47)
